@@ -1,0 +1,1 @@
+"./sinewaves.obj" "./mainPWM.obj" "./ezdsp5535_led.obj" "./ezdsp5535_i2c.obj" "./ezdsp5535_gpio.obj" "./ezdsp5535.obj" "./aic3204_init.obj" "./aic3204.obj" "./PWM.obj" "./PLL.obj" -l"libc.a" "../CSLc55x5h.lib" "../lnkx.cmd" 
